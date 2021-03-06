@@ -7,10 +7,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tarunsinghdev.visitor-badge)
 
 **A freelance web developer from 🇮🇳India who loves to build stuffs useful for many.**
+<img alt="gif" align="right" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
 
 - Always learning.
 - Open for freelance projects.
-- Working on a private repository. ![coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+- Working on a private repository.
 
 ## Tech Stack
 

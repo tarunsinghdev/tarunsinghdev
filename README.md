@@ -10,9 +10,7 @@
 
 - Always learning.
 - Open for freelance projects.
-- Working on a private repository.
-
-![coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+- Working on a private repository. ![coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ## Tech Stack
 

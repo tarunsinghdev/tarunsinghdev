@@ -1,4 +1,4 @@
-# Hi, I'm [Tarun !](https://tarunsingh.surge.sh/)
+# Hi, I'm [Tarun !](https://tarun.vercel.app/)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunsinghdev/)&nbsp;
 [![mail](https://img.shields.io/badge/Mail-6001D2?style=for-the-badge&logo=yahoo!&logoColor=white)](mailto:tarunsingh.dev@yahoo.com)&nbsp;
